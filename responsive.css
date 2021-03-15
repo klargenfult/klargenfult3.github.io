@@ -99,17 +99,17 @@
   .top-wrapper2 p{
     font-size:15px;
   }
-    .ttt {
+  .ttt {
   position:absolute;
   width: 100%;
-}
-#nav{
-  position: fixed;
-  height: 200vh;
-  width: 55%;
-  right: -42%;
-  top: 0;
-  background: #ffffff;
-  transition: .7s;
-}
+  }
+  #nav{
+    position: fixed;
+    height: 200vh;
+    width: 55%;
+    right: -42%;
+    top: 0;
+    background: #ffffff;
+    transition: .7s;
+  }
 }  
