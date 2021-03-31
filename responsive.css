@@ -121,4 +121,10 @@
  .wrapper{
    overflow-x:hidden;
   }  
+ .Z{
+   display:none;
+  }
+ .Y{
+   display:block;
+  }
 }  
